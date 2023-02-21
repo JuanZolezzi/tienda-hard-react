@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tienda-hard-react/build/static/css/main.7c2d3e58.css",
+    "main.js": "/tienda-hard-react/build/static/js/main.49306a2b.js",
+    "static/media/cart.svg": "/tienda-hard-react/build/static/media/cart.28e3d5efc33452788e910afc895b5824.svg",
+    "static/media/brand.svg": "/tienda-hard-react/build/static/media/brand.723e7c60dae10ed68a62a4b7c238cd25.svg",
+    "index.html": "/tienda-hard-react/build/index.html",
+    "main.7c2d3e58.css.map": "/tienda-hard-react/build/static/css/main.7c2d3e58.css.map",
+    "main.49306a2b.js.map": "/tienda-hard-react/build/static/js/main.49306a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2d3e58.css",
+    "static/js/main.49306a2b.js"
+  ]
+}
